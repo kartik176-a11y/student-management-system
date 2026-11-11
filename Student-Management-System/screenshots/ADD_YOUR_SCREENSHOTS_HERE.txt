@@ -1,0 +1,1 @@
+Add your own screenshots after testing: dashboard, add student, populated table, search/filter, mobile view, GitHub repository and deployed website.
